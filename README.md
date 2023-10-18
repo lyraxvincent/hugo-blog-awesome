@@ -1,12 +1,12 @@
 <div align=center> 
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/main/assets/icons/book-icon-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/main/assets/icons/book-icon-light.svg">
-  <img alt="Hugo blog awesome logo" src="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/feat/logo-change/assets/icons/book-icon-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/feat/logo-change/assets/icons/book-icon-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/feat/logo-change/assets/icons/book-icon-light.svg">
+  <img alt="Hashnode logo" src="https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/feat/logo-change/assets/icons/book-icon-light.svg" />
 </picture>
  
 </div>
-<h1 align=center> Hugo Blog Awesome | <a href="https://hba.sid.one" target="_blank" rel="nofollow">Demo link</a></h1>
+<h1 align=center> Hugo Blog Awesome | <a href="https://hba.sid.one" target="_blank" rel="nofollow">Demo</a></h1>
 
 <h4 align=center>⚡ Fast | 📰 Clean UI | 🌙 Dark mode support | 📱 Responsive design </h4>
 
@@ -21,22 +21,13 @@
 
 ![Page speed score](https://raw.githubusercontent.com/hugo-sid/hugo-blog-awesome/master/images/pagespeed.png)
 
-The result shown above was last confirmed on September 23, 2023. You can check the details of the PageSpeed test at this link: [Link to the analysis](https://pagespeed.web.dev/analysis/https-hba-sid-one/uh4rm91hnj?form_factor=mobile). You can also do a live [PageSpeed test](https://pagespeed.web.dev/analysis?url=https://hba.sid.one/) of the [demo website](https://hba.sid.one) now.
+Google PageSpeed Insights [test link](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhugo-blog-awesome.netlify.app%2F).
 
 </details>
 
-## Features
-
-- Minimal design
-- Light and dark mode
-- Syntax highlighting
-- RSS feed
-- No jQuery, no Bootstrap
-- 100/100 Google PageSpeed Insights [score](https://pagespeed.web.dev/analysis/https-hba-sid-one/uh4rm91hnj?form_factor=mobile) on all 4 metrics
-
 ## Why this theme?
 
-Hugo Blog Awesome (HBA) is a theme crafted to capture your readers' attention.
+Hugo Blog Awesome is a theme crafted to capture your readers' attention.
 
 Additionally, it's fast, [privacy-conscious](https://themarkup.org/blacklight?url=hba.sid.one), and comes with no external dependencies. That's right. There are no Google fonts, icon packs, or JavaScript frameworks. No trackers or ads to bloat your website.
 
@@ -44,10 +35,19 @@ Its focus on minimalism and clean UI ensures that your content takes the spotlig
 
 Built with Hugo, SCSS, and vanilla JavaScript.
 
+## Features
+
+- Minimal design
+- Responsive design
+- Light and dark modes
+- Syntax highlighting
+- RSS feed
+- No jQuery, Bootstrap
+- 100/100 Google PageSpeed Insights [score](https://pagespeed.web.dev/report?url=https%3A%2F%2Fhugo-blog-awesome.netlify.app%2F) on all 4 metrics
+
 ## Setup
 
-> **Note**
-> You must have the [Hugo extended version](https://gohugo.io/installation/linux/#editions) installed in order to use this theme. This theme uses SCSS for styling. With the Hugo extended version, SCSS can be compiled to CSS without any additional tools.
+> **Note**: You need to have the Hugo extended version installed in order to use this theme. This theme uses SCSS for styling. With the Hugo extended version, SCSS can be compiled to CSS without any additional tools.
 
 To create a new Hugo site with this theme, run the following command:
 
@@ -171,9 +171,8 @@ url = "index.xml"
 | `telegram`      | telegram.org                    |
 | `tiktok`        | tiktok.com                      |
 | `twitch`        | twitch.tv                       |
-| `twitter` (the blue bird logo)       | twitter.com                     |
+| `twitter`       | twitter.com                     |
 | `unsplash`      | unsplash.com                    |
-| `x` (formerly Twitter)             | x.com                           |
 | `xda`           | xda-developers.com              |
 | `xing`          | xing.com                        |
 | `ycombinator`   | ycombinator.com                 |
@@ -237,8 +236,6 @@ If you are using this theme for any website, feel free to list the website here.
 - <https://ruiper.es/>
 - <https://www.magicplace.de/>
 - <https://bskdany.com/>
-- <https://josephscottcampbell.com/>
-- <https://heckintosh.github.io/>
 
 ## Support
 
